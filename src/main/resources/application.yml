@@ -1,0 +1,8 @@
+spring:
+  managerment:
+    endpoints:
+      web:
+        exposure:
+          include: "*"
+server:
+  port: 5000
