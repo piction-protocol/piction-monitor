@@ -7,7 +7,6 @@ plugins {
 }
 
 group = "network.piction"
-version = "1.0-SNAPSHOT"
 
 repositories {
     mavenCentral()
